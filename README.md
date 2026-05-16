@@ -13,7 +13,10 @@
 | [CommonUI](https://github.com/AndanteTribe/CommonUI) | no image | Tutorial | No Award |
 | Echo//Edge | no image | Line Action Game | No Award |
 
-
+## Links
+| Type | URL |
+| X(Twitter) | [@Ropera_88](https://x.com/Ropera_88) |
+| Email | roperaganmen88(at)gmail.com |
 
 
 
