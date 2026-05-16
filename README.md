@@ -15,6 +15,7 @@
 
 ## Links
 | Type | URL |
+| --- | --- |
 | X(Twitter) | [@Ropera_88](https://x.com/Ropera_88) |
 | Email | roperaganmen88(at)gmail.com |
 
