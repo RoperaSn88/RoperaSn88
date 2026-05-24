@@ -1,7 +1,9 @@
 ## About Me
 - Kazushi Oguro (a.k.a ロペ(rope))
-- C#/Unity Engineer, game creater
-- Shibaura Institute of Technology -- B3
+- Main: C#/Unity Engineer, Game creater
+- Sub: Pixel Designer, UI Designer
+
+- Shibaura Institute of Technology - B3
 - Major: Department of Electronic Information Systems
 
 ## Works
